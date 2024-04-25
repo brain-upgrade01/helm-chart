@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  payment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-25T12:39:16.015853407Z"
+    description: A Helm chart for Kubernetes
+    digest: b9be09b71841dd952ddfd136c905400e38ee47920d622015f00790792338ad68
+    name: payment
+    type: application
+    urls:
+    - https://brain-upgrade01.github.io/helm-chart/payment-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-25T12:39:16.015123173Z"
